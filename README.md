@@ -1,6 +1,7 @@
 - **client_side** модуль с тестовым клиентским классом на реквестах
+- **src** исходник апишки
 
-
+> `cd src`
 > `pip install -r requirements.txt`
 > `./manage.py runserver`
 
